@@ -1,6 +1,6 @@
 # Welcome to the AI Grid Hackathon
-<img src="./imgs/ai_grid.png", width="200">
-<img src="./imgs/tourism.svg", width="200">
+<img src="imgs/ai_grid.png" width="200">
+<img src="imgs/tourism.svg" width="200">
 
 
 Our Hackathon features three distinct tracks for you to choose from. Whether you're interested in A, B or C, there's something here for everyone. You can focus on one track or challenge yourself by participating in multiple ones. Join us to innovate, collaborate, and make a real impact!

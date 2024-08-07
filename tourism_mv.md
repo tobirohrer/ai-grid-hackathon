@@ -1,6 +1,6 @@
 # AI Tour Guide
-<img src="./imgs/mv.svg", width="200">
-<img src="./imgs/tourism.svg", width="200">
+<img src="imgs/mv.svg" width="200">
+<img src="imgs/tourism.svg" width="200">
 
 *Keywords: Natural Language Processing, Recommender System, Large Language Models, Prompt Engineering*
 
