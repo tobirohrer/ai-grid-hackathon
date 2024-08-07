@@ -26,19 +26,19 @@ We want to give you the freedom to define the exact inputs and outputs. You can 
 
 ### About Your Solution
 
-Again, it's entirely up to you whether you want to focus entirely on the logic/model or whether you want to create an end-to-end solution by creating a MVP (minimal viable product) with a rudimentary UI. 
+Again, it's entirely up to you whether you want to focus entirely on the logic/model or whether you want to create an end-to-end solution by creating an MVP (minimal viable product) with a rudimentary UI. 
 
-If you choose the prompt engineering approach and use existing LLMs, you can also choose whether you want to run them locally or use a web API. However, if you run the LLMs locally, you must expect them to be very CPU-intensive, depending on their size. If you don't have enough local compute and are using a web API, it's fine if you don't use the whole dataset. Web APIs often have rate limits for free users. Here it is fine if you show the feasibility of your approach by just using parts of the dataset. However, it is of course good if you manage to show your approach on as many events or attractions as possible.
+If you choose the prompt engineering approach and use existing LLMs, you can also choose whether you want to run them locally or use a web API. However, if you run the LLMs locally, you must expect them to be very compute-intensive, depending on their size. If you don't have enough local compute and are using a web API, it's fine if you don't use the whole dataset. Web APIs often have rate limits for free users. Here, it is fine if you show the feasibility of your approach by just using parts of the dataset. However, it is of course good if you manage to show your approach on as many events or attractions as possible.
 
 
 ### Evaluation
 
-There is no dedicated train test split or similar to quantitatively evaluate the performance of your approach. As with the other tracks in this hackathon, we are happy if you could present your solution on Friday. 
+There is no dedicated train test-split or similar to quantitatively evaluate the performance of your approach. As with the other tracks in this hackathon, we are happy if you could present your solution on Friday. 
 
 Particularly interesting is:
 
 - What was your overall solution approach?
-- Which problems did you encouter?
+- Which problems did you encounter?
 - Which LLM(s) did you use? And why these?
 - Did you zero or few shot prompt? 
 - ...
@@ -46,7 +46,7 @@ Particularly interesting is:
 Bonus Points for:
 
 - A small live demo of your solution
-- The smaller the LLM the better. Big LLMs are very compute intense and require more expensive hardware
+- The smaller the LLM the better. Big LLMs are very compute-intense and require more expensive hardware
 - If an open source LLM is used
 - If you build a rudimentary UI so we can play around with your solution 😉
 
