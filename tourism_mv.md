@@ -8,17 +8,17 @@
 
 Are you ready to create an innovative tour guide that will elevate tourism in Mecklenburg-Vorpommern to the next level?
 
-The [Tourism Association of Mecklenburg-Vorpommern](https://tmv.tourismus.mv/) has an extensive database of events and attractions in the region. Your task is to develop a tour guide that helps tourists plan their day.
+The [Tourism Association of Mecklenburg-Vorpommern](https://tmv.tourismus.mv/) has an extensive database of events and activities in the region. Your task is to develop a tour guide that helps tourists plan their day.
 
 The system/model should accept the following user inputs:
 
 - Weather (e.g., Sunny, Rainy, etc.)
-- Event/Attraction Category (e.g. Adventure, Culture, Party, Chillout, etc.)
+- Event/Activity Category (e.g. Adventure, Culture, Party, Chillout, etc.)
 - Date Range (e.g., 08/01/2024 - 08/15/2024)
 
-Based on these inputs, the system should suggest suitable events and attractions that match the specified time, category, and weather conditions. 
+Based on these inputs, the system should suggest suitable events and activity that match the specified time, category, and weather conditions. 
 
-To find out which event or attraction is most suitable in which weather, as well as the creation of meaningful categories, involves natural language processing (NLP) since this information needs to be extracted from descriptions or other information contained in the data. Whether you create and train your own model or integrate existing LLMs by "just" utilizing prompt engineering is up to you.
+To find out which event or activity is most suitable in which weather, as well as the creation of meaningful categories, involves natural language processing (NLP) since this information needs to be extracted from descriptions or other information contained in the data. Whether you create and train your own model or integrate existing LLMs by "just" utilizing prompt engineering is up to you.
 
 ### Room for Creativity
 
@@ -28,7 +28,7 @@ We want to give you the freedom to define the exact inputs and outputs. You can 
 
 Again, it's entirely up to you whether you want to focus entirely on the logic/model or whether you want to create an end-to-end solution by creating an MVP (minimal viable product) with a rudimentary UI. 
 
-If you choose the prompt engineering approach and use existing LLMs, you can also choose whether you want to run them locally or use a web API. However, if you run the LLMs locally, you must expect them to be very compute-intensive, depending on their size. If you don't have enough local compute and are using a web API, it's fine if you don't use the whole dataset. Web APIs often have rate limits for free users. Here, it is fine if you show the feasibility of your approach by just using parts of the dataset. However, it is of course good if you manage to show your approach on as many events or attractions as possible.
+If you choose the prompt engineering approach and use existing LLMs, you can also choose whether you want to run them locally or use a web API. However, if you run the LLMs locally, you must expect them to be very compute-intensive, depending on their size. If you don't have enough local compute and are using a web API, it's fine if you don't use the whole dataset. Web APIs often have rate limits for free users. Here, it is fine if you show the feasibility of your approach by just using parts of the dataset. However, it is of course good if you manage to show your approach on as many events or activity as possible.
 
 
 ### Evaluation
@@ -54,7 +54,7 @@ Bonus Points for:
 
 **The link to the data will be shared during the event on site.**
 
-An important piece of information is that the **descriptions of the events and attractions are in German**. You can choose whether you work with the data in German or whether you want to add translation as part of your pipeline (or model).
+An important piece of information is that the **descriptions of the events and activities are in German**. You can choose whether you work with the data in German or whether you want to add translation as part of your pipeline (or model).
 
 The dataset consists of 2 files:
 

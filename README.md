@@ -20,7 +20,7 @@ We do not have quantitative metrics to evaluate your solutions. Nevertheless, it
 
 ## The Tracks
 
-- [AI Tour Guide](tourism_mv.md) Harness the power of large language models through innovative prompt engineering. Can you create a sophisticated recommender system that suggests the perfect event or location to go to based on the weather and personal preferences?
+- [AI Tour Guide](tourism_mv.md) Harness the power of large language models through innovative prompt engineering. Can you create a sophisticated recommender system that suggests the perfect event or activity based on the weather and personal preferences?
 - B
 - C
 
