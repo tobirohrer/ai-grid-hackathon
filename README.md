@@ -11,9 +11,8 @@ Each track presents challenges provided by local businesses, offering you the un
 ## How to Start
 
 1. Choose the track which interests you most
-2. Choose if you want to join alone or in a team
-3. If you want to join in a team: Join forces with others
-4. Start Hacking
+2. Team up with fellow participants who are interested in the same track
+3. Start Hacking
 
 ## Presentation of the Solution
 
