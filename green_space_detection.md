@@ -4,7 +4,7 @@
 *Keywords: Computer Vision, Image Segmentation*
 
 **Important** 
-There is a nice presentation from DVZ (Dataprocessing Center; Deutsch: Datenverarbeitungszentrum) about the case with all information [here](https://drive.google.com/drive/folders/1j44dlWkaZZ-jYROMWx25A6rgh1gsZeEA?usp=sharing)
+There is a nice presentation from DVZ (Dataprocessing Center; Deutsch: Datenverarbeitungszentrum) about the case with all information [here](https://drive.google.com/file/d/1oineTjLGRN1d3DyDrKS1Oc7Oz-aCO9bk/view?usp=drive_link)
 
 Green spaces in cities are vital for environmental health and quality of life. However, identifying and analyzing these areas, especially from aerial images, poses a challenge due to the complexity of urban landscapes. 
 
@@ -21,7 +21,7 @@ Most importantly, DMZ is interested in the following questions:
 
 **The link to the data will be shared during the event on site.**
 
-Information about the dataset can be found [here](https://drive.google.com/drive/folders/1j44dlWkaZZ-jYROMWx25A6rgh1gsZeEA?usp=sharing)
+Information about the dataset can be found [here](https://drive.google.com/file/d/1oineTjLGRN1d3DyDrKS1Oc7Oz-aCO9bk/view?usp=drive_link)
 
 ## Further Reading & Information
 
