@@ -39,7 +39,7 @@ Bonus Points for:
 
 ## The Dataset
 
-**The link to the data will be shared during the event on site.**
+The data can be found [here](https://zenodo.org/records/3899018)
 
 The dataset contains electrical load profiles from 50 different German small and medium-sized enterprises (SMEs). Each profile covers one year of data with a 15-minute resolution. The dataset is univariate, meaning it includes only a single variable: the electrical load over time.
 

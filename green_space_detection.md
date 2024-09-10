@@ -19,8 +19,6 @@ Most importantly, DMZ is interested in the following questions:
 
 ## The Dataset
 
-**The link to the data will be shared during the event on site.**
-
 Information about the dataset can be found [here](https://drive.google.com/file/d/1oineTjLGRN1d3DyDrKS1Oc7Oz-aCO9bk/view?usp=drive_link)
 
 ## Further Reading & Information

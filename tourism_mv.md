@@ -52,7 +52,7 @@ Bonus Points for:
 
 ## The Dataset
 
-**The link to the data will be shared during the event on site.**
+The data can be found [here](https://drive.google.com/drive/folders/1gbzbJ59ZVJkIFxJ5DOI7dSvItwgFXzQw?usp=drive_link)
 
 An important piece of information is that the **descriptions of the events and activities are in German**. You can choose whether you work with the data in German or whether you want to add translation as part of your pipeline (or model).
 
