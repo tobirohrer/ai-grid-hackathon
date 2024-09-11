@@ -11,8 +11,7 @@ This challenge focuses on predicting energy loads of small and medium-sized ente
 
 - You will be given 50 different load profiles, each covering one year. Note that these load profiles vary significantly from each other. Ensure that your approach generalizes well to a wide variety of load profiles. The less handcrafting required for individual load profiles, the better.
 - The forecast horizon should be set to **12 hours into the future** and it shoud be a multi step forecast (meaning there should be 48 forecsts in total)
-- In electrical load forecasting, it is particularly important to capture **peak loads** in the forecast. This means your forecast should not only be as accurate as possible overall but also focus on accurately predicting peak loads.
-
+- In electrical load forecasting, it is particularly important to capture **peak loads** in the forecast. This means your forecast should not only be as accurate as possible overall but also focus on accurately predicting peak loads. Peak loads are defined as any load exceeding 85% of the maximum value recorded for the individual profile over the entire year. **The maximum load value for each profile can be considered as given.**
 
 ### Evaluation
 
