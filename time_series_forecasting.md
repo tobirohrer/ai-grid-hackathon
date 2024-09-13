@@ -1,5 +1,4 @@
-# AI Tour Guide
-<img src="imgs/ise.png" width="200">
+# Electric Load Forecasting 
 
 *Keywords: Time Series Forecasting, Electrical Loads, Energy Transition*
 

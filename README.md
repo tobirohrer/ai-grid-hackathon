@@ -1,7 +1,6 @@
 # Welcome to the AI Grid Hackathon
 <img src="imgs/ai_grid.png" width="200">
 <img src="imgs/tourism.svg" width="200">
-<img src="imgs/ise.png" width="200">
 <img src="imgs/dvz-mz-logo.webp" width="200">
 
 Our Hackathon features three distinct tracks for you to choose from. Whether you're interested in prompt engineering, time series forecasting or computer vision there's something here for everyone. You can focus on one track or challenge yourself by participating in multiple ones. Join us to innovate, collaborate, and make a real impact!
